@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to left, yellowgreen, crimson, rgb(13, 93, 99), silver);
+    text-align: center;
+}
+
+
+div {
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    background: linear-gradient(to right, blue, red, pink, gold, purple);
+}
+
+label {
+    color: white;
+    font-size: 17.5px;
+    font-family: cursive;
+}
+
+
+div h1 {
+    color: Black;
+    font: bold 50px Arial sans-serif;
+}
+

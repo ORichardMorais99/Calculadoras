@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to left, rgb(151, 79, 94), rgb(121, 72, 121), rgb(235, 109, 130), rgb(22, 206, 22), rgb(146, 100, 46));
+    font: normal 18pt Arial sans-serif;
+    color: white;
+    text-align: center;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px solid black;
+    box-shadow: 3px 3px 10px black;
+    background: linear-gradient(to right, silver, gold, crimson, purple, yellowgreen);
+}
+

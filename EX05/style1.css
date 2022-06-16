@@ -1,0 +1,25 @@
+body {
+
+    background: linear-gradient(to left, yellowgreen, silver, rgb(150, 21, 139), gold, rgb(119, 80, 80));
+    color: white;
+    text-align: center;
+
+}
+
+form {
+    background: linear-gradient(to left, crimson, rgb(113, 113, 161), purple, rgb(116, 63, 95), gray);
+    box-shadow: 5px 5px 15px black;
+    border-radius: 5px;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+label {
+    font-style: italic;
+    font: 20px Arial sans-serif;
+}
+
+h1 {
+    color: blue;
+}

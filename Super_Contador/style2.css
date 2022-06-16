@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to left, rgb(116, 87, 87), rgb(105, 93, 95), 
+    yellowgreen, silver, rgb(231, 202, 37));
+    text-align: center;
+}
+
+form {
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(to right, purple, crimson, rgb(22, 112, 134));
+    width: 600px;
+    margin: auto;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+
+form h1 {
+    color: blueviolet;
+    font-family: cursive;
+}

@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, rgb(192, 78, 78), rgba(190, 157, 183, 0.158), 
+    rgb(129, 129, 182), silver, gold, purple);
+    text-align: center;
+}
+
+form {
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    background: linear-gradient(to left, rgb(167, 145, 20), rgb(48, 93, 110), rgba(0, 0, 0, 0.85));
+    color: white;
+}
+
+label {
+    font-size: 18px;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 35px;
+    color: red;
+}
